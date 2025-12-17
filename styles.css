@@ -1,0 +1,40 @@
+body {
+  font-family: 'Georgia', serif;
+  background-color: #1a1a1a;
+  color: #f9f2e7;
+  line-height: 1.6;
+  margin: 0;
+  padding: 2rem;
+}
+
+a {
+  color: #e2a9e5;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+h1, h2 {
+  color: #ffcad4;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+nav {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+nav a {
+  margin: 0 1rem;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
